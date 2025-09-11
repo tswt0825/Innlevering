@@ -26,14 +26,14 @@ img {
   border-radius: 50%;
 }
 
-/* Seksjonene med planeter */
+/* Main - Seksjonene med planeter */
 
 .planetFade {
   background: #0b0f2d;
-  margin: 1rem;
   padding: 1.5rem;
+  margin: 1rem;
   max-width: 600px;
-  border-radius: 12px;
+  border-radius: 20px;
   box-shadow: 0 0 10px rgb(255, 255, 255, 0.3);
   animation: planetFade 1.5s ease;
 }
@@ -42,6 +42,7 @@ img {
   background-image: url(images/nasa.jpg);
 }
 
+/*Footer*/
 #superTess {
   background-color: rgb(141, 141, 237);
   color: black;
